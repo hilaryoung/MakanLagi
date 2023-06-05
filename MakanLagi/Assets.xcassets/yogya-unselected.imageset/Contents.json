@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "yogya-unselected.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
