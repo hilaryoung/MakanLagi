@@ -1,0 +1,211 @@
+[
+    {
+        "id": "1",
+        "enName": "Red onion",
+        "idName": "Bawang merah",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F1-Red%20onion-min.png?alt=media&token=52144db7-1902-48a8-a666-5d32eb084bc3"
+    },
+
+    {
+        "id": "2",
+        "enName": "Red chili pepper",
+        "idName": "Cabai rawit merah",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F2-Red%20chili%20pepper-min.png?alt=media&token=81c26a8a-c9be-40cf-b675-f52ebed56160"
+    },
+
+    {
+        "id": "3",
+        "enName": "Green chili pepper",
+        "idName": "Cabai rawit hijau",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F3-%20Green%20chili%20pepper-min.png?alt=media&token=29a6ab0b-fca7-4db2-bab7-174e4398542d"
+    },
+
+    {
+        "id": "4",
+        "enName": "Lemongrass",
+        "idName": "Serai",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F4-%20Lemongrass-min.png?alt=media&token=a614176e-561a-4aaf-9637-2b443b23c05d"
+    },
+
+    {
+        "id": "5",
+        "enName": "Lime leaves",
+        "idName": "Bay leaves",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F5-%20Lime%20leaves-min.png?alt=media&token=b8754b53-7083-4aae-8c9b-777fb9b62f37"
+    },
+
+    {
+        "id": "6",
+        "enName": "Lime",
+        "idName": "Jeruk nipis",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F6-Lime-min.png?alt=media&token=193e0b66-abbf-4b92-867a-31445baa077d"
+    },
+
+    {
+        "id": "7",
+        "enName": "Salt",
+        "idName": "Garam",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F7-%20salt-min.png?alt=media&token=4befd7bd-84fe-4503-b689-84c146b498a0"
+    },
+
+    {
+        "id": "8",
+        "enName": "Black pepper",
+        "idName": "Merica",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F8%20Black%20pepper-min.png?alt=media&token=1e838a0d-c77a-4f2a-a313-c591f8a96644"
+    },
+
+    {
+        "id": "9",
+        "enName": "Sugar",
+        "idName": "Gula",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F9%20-%20Sugar-min.png?alt=media&token=9e2ae853-bdff-4e02-be2c-5ec66c02e40b"
+    },
+
+    {
+        "id": "10",
+        "enName": "Shrimp paste",
+        "idName": "Terasi",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F10%20-%20shrimp%20paste-min.png?alt=media&token=eabfe5ee-75b3-4093-bbca-dca41cf47116"
+    },
+
+    {
+        "id": "11",
+        "enName": "Tamarind",
+        "idName": "Asam jawa",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F11%20Tamarind-min.png?alt=media&token=edbe9ad0-29ea-43e1-b37f-51ca1822d2d1"
+    },
+
+    {
+        "id": "12",
+        "enName": "Garlic",
+        "idName": "Bawang putih",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F12%20Garlic-min.png?alt=media&token=20c0e138-cc1b-4738-86d1-274f6ba5fc1f"
+    },
+
+    {
+        "id": "13",
+        "enName": "Roasted peanuts",
+        "idName": "Kacang panggang",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F13%20Roasted%20peanuts-min.png?alt=media&token=ec948f16-0c5f-44bd-b5e4-667137330019"
+    },
+
+    {
+        "id": "14",
+        "enName": "Sweet soy sauce",
+        "idName": "Kecap manis",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F14%20Sweet%20soy%20sauce-min.png?alt=media&token=707814a7-2088-4c9f-abee-3301d640f1fb"
+    },
+
+    {
+        "id": "15",
+        "enName": "Palm sugar",
+        "idName": "Gula jawa",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F15%20Palm%20sugar-min.png?alt=media&token=05f5eda8-9333-49ff-8909-60c273d6916f"
+    },
+
+    {
+        "id": "16",
+        "enName": "Brown sugar",
+        "idName": "Gula merah",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F16%20Brown%20sugar-min.png?alt=media&token=5540ee00-f21f-4a8f-85a9-44d53762fc09"
+    },
+
+    {
+        "id": "17",
+        "enName": "Coconut cream",
+        "idName": "Santan",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F17%20Coconut%20cream-min.png?alt=media&token=4415adaa-7bef-4986-9a30-04e504449bda"
+    },
+
+    {
+        "id": "18",
+        "enName": "Galangal",
+        "idName": "Lengkuas",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F18%20Galangal-min.png?alt=media&token=4308545c-63bd-4bff-bf98-f6ac0c29f4db"
+    },
+
+    {
+        "id": "19",
+        "enName": "Bay leaves",
+        "idName": "Daun salam",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F19%20Bay%20leaves-min.png?alt=media&token=b1d7d879-ea73-438f-a425-e1e67caece91"
+    },
+
+    {
+        "id": "20",
+        "enName": "Chicken broth",
+        "idName": "Kaldu ayam",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F20%20Chicken%20broth-min.png?alt=media&token=5d01a2e7-e507-4145-8953-454a64cfedb9"
+    },
+
+    {
+        "id": "21",
+        "enName": "Torch ginger",
+        "idName": "kecombrang",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F21%20Torch%20ginger-min.png?alt=media&token=ab3491d9-067f-40e3-a231-3ccd3515290d"
+    },
+
+    {
+        "id": "22",
+        "enName": "Candlenut",
+        "idName": "Kemiri",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F22%20Candlenut-min.png?alt=media&token=b970a95e-ab8d-47aa-bf23-690d8c9844fd"
+    },
+
+    {
+        "id": "23",
+        "enName": "Clove",
+        "idName": "Cengkeh",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F23%20Clove-min.png?alt=media&token=4ea7bfaa-6cba-43a3-8782-6f0e1baacd67"
+    },
+
+    {
+        "id": "24",
+        "enName": "Cardamom",
+        "idName": "Kapulaga",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F24%20Cardamom-min.png?alt=media&token=46a74816-a0c9-45d1-8bb4-ffdfce448598"
+    },
+
+    {
+        "id": "25",
+        "enName": "Andaliman",
+        "idName": "Andaliman",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F25%20Andaliman-min.png?alt=media&token=28f8638f-b83f-452f-955d-1a0aab22e6d5"
+    },
+
+    {
+        "id": "26",
+        "enName": "Nutmeg",
+        "idName": "Pala",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F26%20Nutmeg-min.png?alt=media&token=5ad983da-45af-4a90-ac2a-7c17e2a3f5e6"
+    },
+
+    {
+        "id": "27",
+        "enName": "Cinnamon",
+        "idName": "Kayu manis",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F27%20Cinnamon-min.png?alt=media&token=13444ab9-17b7-407a-b50a-419ed41e7ecf"
+    },
+
+    {
+        "id": "28",
+        "enName": "Petai",
+        "idName": "Petai",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F28%20Petai-min.png?alt=media&token=7c095d0c-19d1-4f30-921c-6ebe83b8e21e"
+    },
+
+    {
+        "id": "29",
+        "enName": "Anchovy",
+        "idName": "Ikan teri",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F29%20Anchovy-min.png?alt=media&token=107ead6e-e564-42de-8830-5fed309dcb2d"
+    },
+
+    {
+        "id": "30",
+        "enName": "Turmeric",
+        "idName": "Kunyit",
+        "ingIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/Ingredients%2F30%20Turmeric-min.png?alt=media&token=4dd548b3-0fe5-4b8f-b832-65d8a18eafb1"
+    }
+]

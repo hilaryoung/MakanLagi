@@ -1,0 +1,351 @@
+[
+    {
+        "id": "1",
+        "name": "Recipe 1",
+        "origin": "Recipe 1 Origin",
+        "time": 15,
+        "level": "Easy",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Shrimp"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Kemiri"
+            }
+        ],
+        "steps": [
+            "Saute ground spices, add a little water and cook until fragrant.",
+            "Add the snap beans and sliced ​​green chilies, then add the sugar, salt and seasoning, mix well.",
+            "Finally add the prawns, cook until the prawns change color and are cooked. Lift and serve."
+        ],
+        "celebration": "Rahmadhan",
+        "funFact": "Created 60 years ago!",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+
+    {
+        "id": "2",
+        "name": "Recipe 2",
+        "origin": "Recipe 2 Origin",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "3",
+        "name": "Recipe 3",
+        "origin": "Recipe 3 Origin",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "4",
+        "name": "Recipe 4",
+        "origin": "Recipe 4 Origin",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "5",
+        "name": "Recipe 5",
+        "origin": "Recipe 5 Origin",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "6",
+        "name": "Recipe 6",
+        "origin": "Recipe 6 Origin",
+        "time": 45,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "grams",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "100",
+                "measurement": "grams",
+                "name": "Red chilli"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Kemiri"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "4",
+                "measurement": "table spoon",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Fry or roast peanuts until cooked. Remove and drain then let stand until cold.",
+            "Grind the peanuts with a mortar, grinder or meat grinder until smooth. Put it in a container.",
+            "Subtle Seasoning: Fry the chilies, garlic and kencur until wilted. Lift and drain.",
+            "Grind or mash with palm sugar and lime leaves until smooth.",
+            "Mix the Smooth Seasoning with ground peanuts, tamarind then stir until completely blended and blended.",
+            "Pecel seasoning is ready to be used for boiled vegetable sauce."
+        ],
+        "celebration": "Independence Day",
+        "funFact": "Lorem ipsum dolor sit amet, consectetur",
+        "history": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "author": "Mufaridah Fauziah",
+        "credLink": "https://www.resepmami.info/cara-membuat-udang-rebon-pedas-dan-garing/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/thumbnail.jpg?alt=media&token=ceeef448-d2b8-408a-8b9a-00e9cbeb16dc",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/cover.jpg?alt=media&token=2906b5d8-2560-45e1-a567-2c23a9ff86a0",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    }
+]

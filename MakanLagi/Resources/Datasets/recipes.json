@@ -1,0 +1,1811 @@
+[
+    {
+        "id": "1",
+        "name": "Sambal Matah Bali",
+        "origin": "Bali",
+        "time": 15,
+        "level": "Hard",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "50",
+                "measurement": "gram",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "10",
+                "measurement": "gram",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "10",
+                "measurement": "gram",
+                "name": "Green chili pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Nutmeg"
+            },
+            {
+                "quantity": "3",
+                "measurement": "stems of",
+                "name": "Lemongrass"
+            },
+            {
+                "quantity": "6",
+                "measurement": "sheets of",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Lime"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Salt"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Black pepper"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "First soak the red onion, red chili pepper, nutmeg and green chili pepper",
+            "Sauté the shrimp paste until fragrant then set aside",
+            "Slice red onion in thick slices. Then slice the red chilies and green chilies",
+            "After slicing, the chilies can be sifted so that the seeds don't all get into the sauce",
+            "Thinly slice the lime leaves",
+            "Next, thinly slice the inner part of the lemongrass stalk. The inner part of the lemongrass has a soft texture and a less pungent aroma",
+            "Cut the lime, squeeze and add to the chili mixture. Then stir all the ingredients that were mixed earlier.",
+            "Then add seasoning in the form of, salt, flavoring, pepper, sugar to taste. Then stir again. Pour the shrimp paste that has been sauteed with oil, just one tablespoon.",
+            "Lastly, add the cooking oil and stir well, then set aside for a while so that the spices are absorbed."
+        ],
+        "celebration": "",
+        "funFact": "Prepared by hand using a special tool called an ulekan",
+        "history": "Sambal Matah is a traditional Balinese raw sambal that has become increasingly popular in recent years. The dish is made with a base of finely chopped shallots, lemongrass, and chili peppers, which are mixed with a blend of herbs and spices to create a fragrant and flavorful condiment. Sambal Matah is a traditional Balinese raw sambal that has become increasingly popular in recent years. The dish is made with a base of finely chopped shallots, lemongrass, and chili peppers, which are mixed with a blend of herbs and spices to create a fragrant and flavorful condiment.",
+        "author": "Chef Erwin Hidayat",
+        "credLink": "https://www.kompas.com/food/read/2020/06/19/192418775/resep-sambal-matah-dan-tips-agar-sambal-tampak-segar?page=all",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSambalMatahTN.jpg?alt=media&token=585f3ba6-b6f8-4261-8120-6bbd153a0e9f",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSMC.JPG?alt=media&token=f771c37f-a6eb-4d1e-8eff-dd5d5d9ee95f",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "2",
+        "name": "Bumbu Kacang",
+        "origin": "Java",
+        "time": 15,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Tamarind"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Nutmeg"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "7",
+                "measurement": "oz.",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "7",
+                "measurement": "oz.",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Sweet soy sauce"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tsp.",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "6",
+                "measurement": "sheets of",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "To a small bowl, add the tamarind pulp and ¼ cup lukewarm water.",
+            "Heat a large skillet over low heat and add the oil. When hot, add the chiles and garlic and cook, stirring frequently until fragrant and beginning to color, about 4 minutes. Remove from heat and set aside.",
+            "Set a fine mesh strainer over a blender, then pass the tamarind pulp and its water through it, discarding any solids that remain. Add the peanuts, kecap manis, palm sugar, terasi, and the lime leaves, then blend to a sauce of your desired consistency, adding additional water a tablespoon at a time as needed to loosen.",
+            "Season to taste with salt and kecap manis.",
+            "Transfer to a bowl and serve at room temperature with satay or other grilled meats or vegetables. Leftovers keep well in an airtight jar for up to 1 week."
+        ],
+        "celebration": "",
+        "funFact": "Can be used as a topping for desserts such as Es Teler and Es Campur.",
+        "history": "Bumbu Kacang is a traditional Indonesian peanut sauce that is commonly used as a dipping sauce or condiment for various dishes. It is believed to have originated in the Javanese cuisine of Indonesia, specifically from the Central Java and East Java provinces where it is a popular and integral part of local cuisine. However, Bumbu Kacang has since spread to other regions of Indonesia, as well as other countries around the world, and has become a beloved and widely recognized component of Indonesian cuisine. So while its origins may be rooted in Javanese cuisine, Bumbu Kacang is now a popular and celebrated dish throughout Indonesia and beyond.",
+        "author": "Vanja Van Der Leeden",
+        "credLink": "https://www.saveur.com/recipes/bumbu-kacang-indonesian-peanut-sauce-recipe/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FBumbuKacang.jpg?alt=media&token=73c1cddb-e24f-4a1f-905e-7bc6458ab6bf",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FBKC.jpg?alt=media&token=b73ca54c-c79e-4337-9d3b-25a337458495",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "3",
+        "name": "Javanese Sugar Rojak Seasoning",
+        "origin": "Java",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "500",
+                "measurement": "gram",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "3",
+                "measurement": "tbsp.",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Tamarind"
+            }
+        ],
+        "steps": [
+            "Boil 100 ml of water then mix brown sugar, tamarind, salt and shrimp paste",
+            "When water has boiled, add red chili."
+        ],
+        "celebration": "",
+        "funFact": "it can also be used as a marinade for grilled meats and seafood, adding a delicious sweet and spicy flavor.",
+        "history": "Rojak seasoning typically includes a combination of spices such as ground peanuts, chili, tamarind, shrimp paste, sugar, and lime juice. The blend of these spices creates a complex flavor profile that is both savory and tangy, making it a popular choice for many Indonesian dishes. In addition to its use in Indonesian cuisine, Rojak seasoning has also been adopted by other cultures in the region, such as Malaysia and Singapore, where it is commonly used in dishes like Rojak and Popiah. Over time, the recipe for Rojak seasoning has evolved and adapted to local tastes and preferences, resulting in different variations and interpretations of the spice blend across the region.",
+        "author": "Lilly T. Erwin",
+        "credLink": "https://www.kompas.com/food/read/2021/11/07/141544975/resep-bumbu-rujak-buah-kental-tanpa-kacang-rasa-manis-gula-jawa",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FRujak.jpg?alt=media&token=b6c731ba-1f17-4b6c-8255-362071b9bef8",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FRJC.JPG?alt=media&token=23a822ed-b364-4df8-88aa-dca8315b04eb",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "4",
+        "name": "Gado Gado Betawi Sauce",
+        "origin": "DKI Jakarta",
+        "time": 60,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "700",
+                "measurement": "ml",
+                "name": "Coconut cream"
+            },
+            {
+                "quantity": "200",
+                "measurement": "gram",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "4",
+                "measurement": "sheets of",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "50",
+                "measurement": "gram",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Sweet soy sauce"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Tamarind"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "Clean the peanuts. Fry in hot oil. Remove and drain, then leave to cool. Grind the nuts using a blender until smooth. set aside.",
+            "Dissolve tamarind with 3 tablespoons of hot water. Strain and take the water. set aside.",
+            "Heat the oil, sauté the ground spices and lime leaves until fragrant.",
+            "Masukkan gilingan kacang tanah, aduk rata.",
+            "Masukkan santan, gula merah, kecap manis, dan garam. Aduk hingga rata dan masak hingga mendidih.",
+            "Add tamarind water, stir well.",
+            "Cook until the sauce thickens and corrects the taste.",
+            "Remove and serve"
+        ],
+        "celebration": "",
+        "funFact": "The word 'gado gado' means 'mix-mix' in Indonesian, which refers to the mix of vegetables",
+        "history": "Gado Gado Betawi is a traditional Indonesian dish that originated from the Betawi people, who are the native inhabitants of Jakarta. The dish is believed to have been created during the colonial period, when the Betawi people worked as cooks for Dutch colonial officials.",
+        "author": "Atsarina Luthfiyyah",
+        "credLink": "https://resepkoki.id/resep/resep-gado-gado-betawi/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FGGT.jpg?alt=media&token=2810efb4-105b-4447-ba28-cd4aabf60637",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FGGC.jpg?alt=media&token=72602bcd-7dd4-4387-89ba-530713fa8a55",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "5",
+        "name": "Orek Tempe",
+        "origin": "Yogyakarta",
+        "time": 45,
+        "level": "Easy",
+        "serving": 3,
+        "ingredients": [
+            {
+                "quantity": "300",
+                "measurement": "gram",
+                "name": "Tempeh"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Black pepper"
+            },
+            {
+                "quantity": "2",
+                "measurement": "cm",
+                "name": "Galangal"
+            },
+            {
+                "quantity": "2",
+                "measurement": "sheets of",
+                "name": "Bay leaves"
+            },
+            {
+                "quantity": "3",
+                "measurement": "tbsp.",
+                "name": "Sweet soy sauce"
+            },
+            {
+                "quantity": "1",
+                "measurement": "pack",
+                "name": "Chicken broth"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "200",
+                "measurement": "ml",
+                "name": "Water"
+            },
+            {
+                "quantity": "3",
+                "measurement": "tbsp.",
+                "name": "Vegetable oil"
+            }
+        ],
+        "steps": [
+            "Heat the pan and oil. Saute garlic until fragrant. Add galangal and bay leaves, then sauté briefly.",
+            "Add tempeh, chicken broth, savory spicy sweet bango soy sauce, sugar, salt and water. Mix well.",
+            "Masak hingga bumbu meresap dan air mengering, kemudian angkat.",
+            "Serve immediately with white rice and other side dishes."
+        ],
+        "celebration": "",
+        "funFact": "it gained popularity as a healthy and sustainable food option due to its high protein content and low environmental impact",
+        "history": "Tempe Orek is a dish that has its origins in Central Java, Indonesia. Tempeh itself has been a staple protein source in Indonesian cuisine for centuries, with records of its consumption dating back to the 12th century. Tempeh is made by fermenting cooked soybeans with a type of mold called Rhizopus oligosporus, which binds the soybeans into a firm cake-like texture with a slightly nutty and earthy flavor.",
+        "author": "Rian Farisa",
+        "credLink": "https://www.masakapahariini.com/resep/orek-tempe-basah/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FOTCT.jpg?alt=media&token=3dde9154-e5e4-4494-a7b6-5c25530926c2",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FOTC.jpg?alt=media&token=9af44022-60ca-49f4-97ca-8dd07366e9b5",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "6",
+        "name": "Bumbu Rujak Kecombrang",
+        "origin": "Yogyakarta",
+        "time": 30,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Torch ginger"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "3",
+                "measurement": "tbsp.",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Tamarind"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Sweet soy sauce"
+            },
+            {
+                "quantity": "4",
+                "measurement": "tbsp.",
+                "name": "Roasted peanuts"
+            }
+        ],
+        "steps": [
+            "Grind all the ingredients except the sweet soy sauce and peanuts until they are crushed and well mixed. Add Sweet Soy Sauce, stir well.",
+            "Prepare the kecombrang rujak sauce, sprinkle with roasted peanuts. Serve."
+        ],
+        "celebration": "",
+        "funFact": "also known as torch ginger or wild ginger flower",
+        "history": "Bumbu Rujak Kecombrang has a long history in Indonesian cuisine, particularly in Javanese cuisine. The dish is believed to have been created by Javanese locals, who used the traditional combination of sweet, sour, and spicy flavors, along with local ingredients like kecombrang (torch ginger flower) and tamarind.",
+        "author": "Rian Farisa",
+        "credLink": "https://www.masakapahariini.com/resep/resep-cireng-bumbu-rujak-kecombrang/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FRK.jpg?alt=media&token=c14b1851-f3c5-4545-8bf8-66958bfbd5e3",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FRKC.jpg?alt=media&token=32697952-4815-4614-bfeb-b845bc5694ba",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "7",
+        "name": "Sambal Kemiri",
+        "origin": "Jambi",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "6",
+                "measurement": "whole",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Candlenut"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "Panaskan 100 - 150 ml minyak dalam wajan, goreng bawang merah, bawang putih, cabai rawit, cabai merah keriting, kemiri, dan tomat secara bergantian hingga mulai layu. Angkat.",
+            "Heat 100 - 150 ml of oil in a pan, fry the shallots, garlic, bird's eye chilies, curly red chilies, candlenuts, and tomatoes alternately until they begin to wilt. Lift.",
+            "Pour the chili sauce with 2 tablespoons of the hot oil used for frying the chilies, mix well. Serve immediately."
+        ],
+        "celebration": "",
+        "funFact": "Candlenuts has anti-inflammatory and antibacterial benefits",
+        "history": "Sambal Kemiri is believed to have been invented by Javanese nobles during the Majapahit era (1293-1527). The use of kemiri (candlenut) in the sambal not only adds a unique nutty flavor but also acts as a thickening agent for the sauce. In some parts of Indonesia, sambal kemiri is also used as a natural remedy for hair loss.",
+        "author": "Lingkan Budiman",
+        "credLink": "https://endeus.tv/resep/sambal-kemiri-yang-gurihnya-mantap",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSKThumb.jpg?alt=media&token=0bd7c0ea-575e-4fbc-a880-616291209894",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSaKC.jpg?alt=media&token=6226a802-7bc4-4b02-ab38-2ce86b89afa7",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "8",
+        "name": "Terong Bumbu Kemiri",
+        "origin": "Java",
+        "time": 30,
+        "level": "Medium",
+        "serving": 3,
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Purple eggplant"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Cooking oil"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Candlenut"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Cardamom"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "1",
+                "measurement": "1cm",
+                "name": "Ginger"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "250",
+                "measurement": "ml",
+                "name": "Coconut cream"
+            }
+        ],
+        "steps": [
+            "Grill eggplant until cooked, remove. Peel off the skin, let it cool and set aside.",
+            "Heat the oil, saute all the spices until fragrant, remove from heat.",
+            "Boil coconut milk with Taste Oyster Sauce and ground spices. Keep stirring until it boils, remove.",
+            "Potong-potong terong, letakkan di dalam piring saji.",
+            "Pour the hazelnut seasoning on it. Eggplant with Pecan Seasoning is ready to be served."
+        ],
+        "celebration": "",
+        "funFact": "Candlenut rich in oil, which gives the dish a creamy texture and a unique flavor",
+        "history": "Terong Bumbu Kemiri is a traditional Indonesian dish that features eggplant cooked in a fragrant sauce made with kemiri (candlenut), which is a popular ingredient in Indonesian cuisine. Candlenuts are commonly used as a thickening agent in sauces and curries, and they are also rich in nutrients such as protein, healthy fats, and antioxidants. The dish is often served as a side dish or a vegetarian main course and is popular in many parts of Indonesia.",
+        "author": "Dapur Kobe",
+        "credLink": "https://www.dapurkobe.co.id/terong-bumbu-kemiri",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FTerongKemiri-min.jpg?alt=media&token=5837093f-05ee-4bdd-b42f-dbaeff35c909",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FTKC-min.jpg?alt=media&token=82ae6cc4-325c-4a1b-973a-d0de6cd420e8",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "9",
+        "name": "Selai Nanas",
+        "origin": "Sumatra",
+        "time": 45,
+        "level": "Medium",
+        "serving": 3,
+        "ingredients": [
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Pineapple"
+            },
+            {
+                "quantity": "220",
+                "measurement": "gram",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Cinnamon"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Clove"
+            }
+        ],
+        "steps": [
+            "Prepare the material to be cooked",
+            "Parut nanas dengan parutan keju",
+            "Cook the pineapple until the water is reduced",
+            "After the water is reduced, sugar, cloves and cinnamon are added. Cook until golden brown. Then serve."
+        ],
+        "celebration": "",
+        "funFact": "Used as a topping for toast or crackers, or as an ingredient in cakes and pastries.",
+        "history": "The art of making pineapple jam in Indonesia began during the Dutch colonial period. Dutch colonizers introduced modern techniques of preserving fruit, which allowed Indonesians to make jam from a variety of fruits, including pineapples.",
+        "author": "Welly Herlina",
+        "credLink": "https://www.yummy.co.id/resep/selai-nanas-13",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSelaiNanas-min.jpg?alt=media&token=b0dd05a2-7ce4-4c70-8822-a6fbf6d6b084",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSelaiNanasC-min.jpg?alt=media&token=5c68a603-dfd7-4113-947b-66c55f672eb1",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "10",
+        "name": "Sambal Colo Colo",
+        "origin": "Sulawesi",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "8",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Black pepper"
+            },
+            {
+                "quantity": "7",
+                "measurement": "whole",
+                "name": "Green chili pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Candlenut"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Andaliman"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Green tomato"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1/4",
+                "measurement": "tbsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Lime"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Cardamom"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Water"
+            }
+        ],
+        "steps": [
+            "Thinly slice the red chili pepper, green chili pepper, andaliman, and shallots. Small dice green tomatoes.",
+            "Mix well the red cayenne pepper, green cayenne pepper, shallots, green tomatoes, Cardamom, Candlenut, salt and sugar.",
+            "Tambahkan air jeruk nipis dan air, campur rata, sajikan."
+        ],
+        "celebration": "",
+        "funFact": "The sauce gets its name from the word 'colo' which means to mix in the Manado dialect.",
+        "history": "Sambal Colo Colo is a chili sauce that originated from the city of Manado in North Sulawesi, Indonesia. It is said to have been invented by a street food vendor named Pak Kikong who sold grilled fish and meat skewers with his special sauce in the city's market area.",
+        "author": "Tsani Wismono",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-colo-colo/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FColo-min.jpg?alt=media&token=ae1f2e63-8643-4469-90f9-6df73554874e",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FColoColoC-min.jpg?alt=media&token=0823196d-31e2-48ca-a5e9-c4b9eee7bc17",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "11",
+        "name": "Sambal Bakso",
+        "origin": "DKI Jakarta",
+        "time": 10,
+        "level": "Easy",
+        "serving": 3,
+        "ingredients": [
+            {
+                "quantity": "5",
+                "measurement": "tbsp.",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Andaliman"
+            },
+            {
+                "quantity": "1/4",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1/4",
+                "measurement": "tbsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Water"
+            }
+        ],
+        "steps": [
+            "Boil red chili pepper, red chili, andaliman and bawang putih",
+            "Grind or puree the chilies and onions that have been boiled until smooth, add enough chili cooking water, stir well.",
+            "The meatball sauce is ready to be served, if you don't finish it, you can put it in a closed container and store it in the refrigerator to make it last longer."
+        ],
+        "celebration": "",
+        "funFact": "",
+        "history": "",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-bakso/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSamBakso-min.jpg?alt=media&token=a497e57c-090d-4c15-b030-234855c887b7",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSamBaksoC-min.jpg?alt=media&token=aa28a094-936a-4bbd-9ee8-78b0add18bab",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "12",
+        "name": "Sambal Rica Rica",
+        "origin": "Sulawesi",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "100",
+                "measurement": "gram",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "1",
+                "measurement": "2cm",
+                "name": "Ginger"
+            },
+            {
+                "quantity": "1",
+                "measurement": "stems of",
+                "name": "Lemongrass"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Bay leaves"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Salt"
+            },
+            {
+                "quantity": "2",
+                "measurement": "gram",
+                "name": "Clove"
+            }
+        ],
+        "steps": [
+            "Grind or grind the cayenne pepper, red chili, garlic, garlic, clove, and ginger until smooth.",
+            "Heat the oil, saute the mashed chilies with lemon grass and lime leaves until fragrant, add salt and sugar according to taste.",
+            "Cook until the chili is cooked. Lift and serve."
+        ],
+        "celebration": "",
+        "funFact": "The name 'rica-rica' comes from the sound of the chilies being pounded in a mortar and pestle.",
+        "history": "The history of Sambal Rica Rica can be traced back to the Minahasan people of North Sulawesi, who are known for their love of spicy food. The sauce is often served as a condiment for grilled or fried seafood, chicken, or meat dishes. Over time, the popularity of Sambal Rica Rica has spread throughout Indonesia, and it can now be found in many Indonesian restaurants and households.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-rica-rica/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FRica2-min.jpg?alt=media&token=9d5c0772-eadc-4a9b-870d-84d05fa0af16",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FRica2C-min.jpg?alt=media&token=ab69931e-5e57-4435-9dfb-f068fb5825bd",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "13",
+        "name": "Sambal Embe",
+        "origin": "Bali",
+        "time": 20,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole clove",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "gram",
+                "name": "Tamarind"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Nutmeg"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Thinly slice shallots, garlic and chilies. set aside.",
+            "Fry red onion and whites separately until browned. Lift and drain.",
+            "Sauté the chili until wilted, add the shrimp paste, stir until the shrimp paste is crushed.",
+            "Add salt and sugar according to taste, stir well.",
+            "Mix the fried chilies and their oil with the fried shallots and garlic.",
+            "Add bay lime leaves, then serve."
+        ],
+        "celebration": "",
+        "funFact": "Best eaten with tofu",
+        "history": "Sambal embe is a typical Balinese chili sauce that is as popular as sambal matah. When visiting Bali and tasting Balinese culinary delights, you will definitely find sambal embe as one of the choices for chili sauce. It has a slightly sour, spicy taste with a distinctive savory shrimp paste.",
+        "author": "Lina Hermawati",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-embe/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2Fembe-min.jpg?alt=media&token=7a78829a-b5a6-41db-b93a-f2a4151a60c4",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FembeC-min.jpg?alt=media&token=72495991-4a63-49c3-b644-dfd81e31624c",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "14",
+        "name": "Sambal Cumi",
+        "origin": "Java",
+        "time": 25,
+        "level": "Hard",
+        "serving": 4,
+        "ingredients": [
+            {
+                "quantity": "250",
+                "measurement": "gram",
+                "name": "Baby squid"
+            },
+            {
+                "quantity": "1",
+                "measurement": "strand",
+                "name": "Petai"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "200",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "8",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Salt"
+            }
+        ],
+        "steps": [
+            "Bersihkan cumi-cumi, buang tulang lunaknya, lalu cuci bersih. Goreng sebentar sampai setengah matang. Angkat dan tiriskan.",
+            "Haluskan atau uleg cabai rawit, cabai merah, bawang merah dan bawang putih.",
+            "Saute the ground spices that have been mashed with lemon grass and lime leaves with a little more oil. Cook until fragrant.",
+            "Add the petai and squid, add salt and sugar according to taste. Cook until the chili is cooked."
+        ],
+        "celebration": "",
+        "funFact": "It is a popular street food in Indonesia",
+        "history": "Sambal Cumi originated in the coastal regions of Indonesia, where squid is a common ingredient in many dishes. The dish is often served with rice and other side dishes, and is a popular street food in many parts of the country.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-cumi/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2Fscumi-min.jpg?alt=media&token=02ba9179-cc6c-425e-8d57-a8253b0a7625",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FscumiC-min.jpg?alt=media&token=f4e071a0-f2cb-434b-b415-c1fc16ca0144",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "15",
+        "name": "Sambal Pecak",
+        "origin": "Java",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "20",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "15",
+                "measurement": "whole",
+                "name": "Green chili pepper"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "8",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Clove"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Salt"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "Coarsely grind the green chilies, red chilies and 1/2 of the shallots.",
+            "Tambahkan irisan tomat, bumbui dengan garam dan gula sesuai selera, aduk rata.",
+            "Thinly slice the remaining shallots, then fry briefly until browned in cooking oil.",
+            "Drizzle the oil along with the fried shallot slices into the crushed chilies. Stir well.",
+            "Sambal pecak siap disajikan."
+        ],
+        "celebration": "",
+        "funFact": "often served as a dipping sauce for grilled or fried seafood, chicken, or meat, or as a condiment to accompany rice and other dishes.",
+        "history": "Sambal Pecak is a spicy and tangy Indonesian condiment that originated in the region of East Java. Pecak means 'served on a plate or platter' in the local Javanese language, which refers to the traditional way of serving the sambal with grilled fish, chicken or other meat on a large platter.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-pecak/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FsPecak-min.jpg?alt=media&token=6ba7efc6-83b9-47a6-995b-3195430bef7a",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FsPecakC-min.jpg?alt=media&token=755118b2-d3c2-4daa-be27-b4f6ad5c5483",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "16",
+        "name": "Sambal Pencok Kacang Panjang",
+        "origin": "Jambi",
+        "time": 15,
+        "level": "Medium",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "150",
+                "measurement": "gram",
+                "name": "Long beans"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "3",
+                "measurement": "gram",
+                "name": "Black pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "cm",
+                "name": "Torch ginger"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "cm",
+                "name": "Galangal"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Lime leaves"
+            }
+        ],
+        "steps": [
+            "Wash long beans, cut into about 1 cm.",
+            "Uleg halus cabai, bawang putih, kencur, terasi, garam dan gula merah, beri perasan jeruk limau.",
+            "Masukkan kacang panjang, aduk sambil diuleg ringan, tambahkan kemangi, aduk rata.",
+            "Sambal pencok kacang panjang siap disajikan segera."
+        ],
+        "celebration": "",
+        "funFact": "Can be customized to personal taste by adjusting the level of spiciness",
+        "history": "The dish originated from the island of Java, specifically the region of Banyuwangi in East Java. The name 'pencok' refers to the method of preparation, which involves grilling or roasting the ingredients before pounding them into a paste.",
+        "author": "Erik Wangso",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-pencok-kacang-panjang/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSambal%20Pencok%20Kacang%20Panjang-1-min.jpg?alt=media&token=3a4db75c-041e-415d-bbbd-c668594665b7",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSambal%20Pencok%20Kacang%20Panjang-min.jpg?alt=media&token=6c8f6b25-4344-478f-b93b-3945e797f3ab",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "17",
+        "name": "Sambal Tuk Tuk",
+        "origin": "Sumatera",
+        "time": 15,
+        "level": "Easy",
+        "serving": 5,
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Anchovy"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole",
+                "name": "Candlenut"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Andaliman"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "Panaskan wajan dengan sedikit minyak, goreng atau sangrai dahulu semua bahan kecuali andaliman dan ikan teri yang sudah disangrai terpisah.",
+            "Grind all the spices that have been fried, add the andaliman, sugar and salt and grind again until the texture is to your taste.",
+            "Add the roasted anchovies, beat roughly, stir evenly with the chili sauce.",
+            "Ready to serve."
+        ],
+        "celebration": "",
+        "funFact": "A great add on for rice-based meals",
+        "history": "Sambal tuk tuk typical of Batak, North Sumatra, has a unique taste because it uses andaliman and dried fish. This chili sauce is very delicious served as a complement to grilled fish.",
+        "author": "Agustia Lidya",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-tuk-tuk/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2Ftuk2-min.jpg?alt=media&token=2a95a3e6-844b-4508-a717-dd52046e28c2",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2Ftuk2C-min.jpg?alt=media&token=1a337638-848e-49ab-9840-58f98de3c5a1",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "18",
+        "name": "Sambal Belut",
+        "origin": "Java",
+        "time": 30,
+        "level": "Hard",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Eel"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Turmeric"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole",
+                "name": "Lime"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1",
+                "measurement": "strand",
+                "name": "Petai"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Mushroom broth"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tsp.",
+                "name": "Lemongrass"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "7",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            }
+        ],
+        "steps": [
+            "Rinse the eel then crush the meat, cut according to taste.",
+            "Soak the pieces of eel with turmeric, salt and lime juice, stir well and leave for 5 minutes. Then remove the mucus that is in the eel with a little kneading. Wash clean then set aside.",
+            "Heat cooking oil, fry the eel until cooked. Be careful when frying the eel because it can explode and splash hot oil. If it's cooked, drain.",
+            "Heat 5 tablespoons of oil used to fry the eel, then sauté the ground spices until fragrant and change color.",
+            "Add sugar, salt and mushroom stock, stir until smooth. Correct the taste if it's just right, add the fried eel and petai, stir everything until smooth. Turn off the heat and serve."
+        ],
+        "celebration": "",
+        "funFact": "Commonly eaten on special occasions",
+        "history": "Sambal Belut is a type of sambal from the island of Java in Indonesia, specifically from the Central Java province. It is named after the main ingredient, belut, which means 'eel' in Indonesian. The eels used in the sambal are usually freshwater eels that are abundant in the rivers and rice fields of Central Java.",
+        "author": "Agustia Lidya",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-belut/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSbelut-1-min.jpg?alt=media&token=7068aec5-a259-4057-a82d-4e32d1859347",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSbelut-min.jpg?alt=media&token=6ee38781-aa03-4739-b36e-2b64eb1e1eff",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "19",
+        "name": "Sambal Nanas",
+        "origin": "Yogyakarta",
+        "time": 25,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Pineapple"
+            },
+            {
+                "quantity": "8",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "20",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "8",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "4",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Cooking oil"
+            }
+        ],
+        "steps": [
+            "Peel the pineapple, wash and then cut into small pieces. set aside.",
+            "Grind the red chilies, bird's eye chilies, shallots, garlic and shrimp paste. Then saute the spices with a little hot oil until fragrant.",
+            "Enter the pineapple that has been cut, add brown sugar and salt according to taste, then stir well. Sauté until the pineapple is slightly wilted. Taste correction.",
+            "Pineapple Sambal is ready to be served with your favorite side dish."
+        ],
+        "celebration": "",
+        "funFact": "Typically served as a condiment for grilled or fried dishes in Indonesian cuisine.",
+        "history": "The exact history of Sambal Nanas is unclear, but it is believed to have originated in the island of Java, which is known for its sweet and fruity sambal varieties. Pineapple has been a popular ingredient in Indonesian cooking since the colonial era, when it was introduced by the Dutch.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-nanas/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSNanas-1-min.jpg?alt=media&token=89a55eed-5940-4236-acb6-78b2d0aae472",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSNanas-min.jpg?alt=media&token=c4f3b02c-ca51-4e30-9a76-34a3803758cf",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "20",
+        "name": "Sambal Tahu Goreng",
+        "origin": "Sumatera",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Tofu"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Salt"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Sugar"
+            }
+        ],
+        "steps": [
+            "Cut the tofu into small squares, then soak briefly in enough water that has been added with finely chopped garlic and 1 teaspoon of salt.",
+            "Fried tofu until cooked, remove and drain.",
+            "Grind the red chilies, bird's eye chilies, shallots, garlic, tomatoes and shrimp paste.",
+            "Tumis bumbu halus, tambahkan garam dan gula sesuai selera. Masak hingga sambal matang dan harum. Kemudian masukkan tahu goreng, aduk rata.",
+            "Cook until all the tofu is covered in chili sauce, remove and serve."
+        ],
+        "celebration": "",
+        "funFact": "Often served in upscale restaurants and hotels.",
+        "history": "Sambal Tahu Goreng is a popular Indonesian dish made with fried tofu and a spicy chili sauce called sambal. The dish originated from the Javanese cuisine, particularly in Central Java and Yogyakarta, but has now become widely popular throughout Indonesia.",
+        "author": "Hernita Lidyawati",
+        "credLink": "https://resepkoki.id/resep/resep-sambal-tahu-goreng/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSTahuG-min.jpg?alt=media&token=24dcdd8d-09ec-4cc6-9cf4-0c4fe27f37e1",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSTahuGC-min.jpg?alt=media&token=90ab4bf7-e2de-4ee5-8fac-925078916501",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "21",
+        "name": "Beberuk Terong",
+        "origin": "DKI Jakarta",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "4",
+                "measurement": "whole",
+                "name": "Purple eggplant"
+            },
+            {
+                "quantity": "100",
+                "measurement": "gram",
+                "name": "Roasted peanuts"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Lime"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "8",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Tomato"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Turmeric"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Shrimp paste"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Palm sugar"
+            }
+        ],
+        "steps": [
+            "Grind or blend all the chili ingredients in a fine blender. set aside.",
+            "Heat the oil then pour it into the chili sauce. Stir well.",
+            "Add the orange juice to the chili sauce. Stir well.",
+            "Add eggplant slices and long beans. Stir well.",
+            "Sprinkle with sliced ​​red onion. Ready to be served."
+        ],
+        "celebration": "",
+        "funFact": "The name 'beberuk' comes from the local Betawi language, which means 'mixed'",
+        "history": "Beberuk Terong is a traditional Indonesian salad made from mashed eggplant mixed with various spices and served cold. The dish is believed to originate from the Betawi community in Jakarta, but has spread throughout the country and has become a popular snack or side dish.",
+        "author": "Tiyarahn Matiya",
+        "credLink": "https://resepkoki.id/resep/resep-beberuk-terong/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FBeberuk-min.jpg?alt=media&token=ae58502c-edbc-4b1a-a0b6-59a563a9c4e7",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FBeberukC-min.jpg?alt=media&token=450842af-02ef-4142-a6ab-46e33b46f3b2",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "22",
+        "name": "Sumpia Abon",
+        "origin": "Yogyakarta",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "20",
+                "measurement": "sheets of",
+                "name": "Spring roll skin"
+            },
+            {
+                "quantity": "1/2",
+                "measurement": "tbsp.",
+                "name": "Flour"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "5",
+                "measurement": "gram",
+                "name": "Palm sugar"
+            },
+            {
+                "quantity": "100",
+                "measurement": "gram",
+                "name": "Shredded chicken"
+            }
+        ],
+        "steps": [
+            "Cut spring roll skin, 1 sheet into 4 parts lengthwise.",
+            "Dissolve the flour with enough water.",
+            "Take 1 cut sheet, fill it with enough shredded at the end, then fold it in a triangular shape. Glue the ends with flour solution. Do it to the end.",
+            "Fry the chopsticks over low heat until golden brown. Lift and drain.",
+            "Let the heat dissipate and the oil to drain. Store in an airtight jar."
+        ],
+        "celebration": "",
+        "funFact": "There are a lot of variations including meat or vegetables fillings",
+        "history": "Sumpia abon is a snack dish that originates from Indonesia. It is a type of fried spring roll that is typically filled with shredded chicken, beef or pork floss, and a variety of vegetables such as carrots and bean sprouts. The filling is seasoned with spices and then wrapped in a thin pastry wrapper made from wheat flour, water, and salt.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-sumpia-abon/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSumpia-min.jpg?alt=media&token=33f08a92-b434-4d0c-87f5-5a5ab1641d7f",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSumpiaC-min.jpg?alt=media&token=c10b5d42-6ee4-4115-bc09-b157e481fd20",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "23",
+        "name": "Keripik Singkong Balado",
+        "origin": "Sumatra",
+        "time": 60,
+        "level": "Hard",
+        "serving": 3,
+        "ingredients": [
+            {
+                "quantity": "500",
+                "measurement": "gram",
+                "name": "Cassava"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "10",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "5",
+                "measurement": "whole",
+                "name": "Red chili"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Brown sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Sugar"
+            },
+            {
+                "quantity": "2",
+                "measurement": "tbsp.",
+                "name": "Tamarind"
+            }
+        ],
+        "steps": [
+            "Peel cassava, wash and then cut into thin slices with a slicer or knife. Soak in water that has been given salt until all submerged. Let stand 15 minutes, then drain.",
+            "Goreng singkong dalam minyak panas sampai kuning kecoklatan, angkat dan tiriskan.",
+            "Grind the spices: Red chili, cayenne pepper, garlic, brown sugar. Use a food chopper to make the chilies really smooth. Then stir-fry with a little oil, add water, sugar and tamarind water. Cook until the seasoning thickens.",
+            "Enter the cassava that has been fried, stir well until all surfaces are coated with spices. Turn off the fire.",
+            "Cool, then store in an airtight jar."
+        ],
+        "celebration": "",
+        "funFact": "A favorite among Indonesians and foreigners alike.",
+        "history": "Keripik Singkong Balado is a popular Indonesian snack that consists of thinly sliced cassava (singkong) that is deep-fried until crispy and then coated with a spicy seasoning called balado. Balado is a traditional Indonesian chili sauce made from chili peppers, garlic, shallots, and other spices. To understand the history of Keripik Singkong Balado, we need to look at the historical context of its main ingredients, cassava and balado sauce, as well as the cultural influences that have shaped Indonesian cuisine.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-keripik-singkong-balado/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FSBalado-min.jpg?alt=media&token=e2caa511-1511-41f7-b2e2-a1c2c998bcc2",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FSBaladoc-min.jpg?alt=media&token=1798426b-81b7-41a7-b094-f37681f67614",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "24",
+        "name": "Tumis Kulit Melinjo",
+        "origin": "Sulawesi",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "5",
+                "measurement": "whole clove",
+                "name": "Red onion"
+            },
+            {
+                "quantity": "200",
+                "measurement": "gram",
+                "name": "Melinjo skin"
+            },
+            {
+                "quantity": "3",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Red chili pepper"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Green chili pepper"
+            },
+            {
+                "quantity": "2",
+                "measurement": "whole",
+                "name": "Galangal"
+            },
+            {
+                "quantity": "2",
+                "measurement": "sheets of",
+                "name": "Lime leaves"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Oyster sauce"
+            },
+            {
+                "quantity": "50",
+                "measurement": "gram",
+                "name": "Anchovy"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Salt"
+            },
+            {
+                "quantity": "",
+                "measurement": "",
+                "name": "Sugar"
+            }
+        ],
+        "steps": [
+            "Wash the melinjo skin, boil briefly until the skin is soft and tender. Lift and drain.",
+            "Thinly slice shallots and garlic, then stir-fry with galangal and bay leaves until fragrant.",
+            "Add melinjo skin and chili slices, mix well, add a little water.",
+            "Add oyster sauce, salt and sugar according to taste, stir well.",
+            "Add the anchovies, stir well, cook until cooked and the flavors meld."
+        ],
+        "celebration": "",
+        "funFact": "Apart from being made as a snack, melinjo skin is also often sautéed as a vegetable.",
+        "history": "Stir-fried melinjo can be found in various food stalls. But, there's nothing wrong with trying to make your own at home. Here is a simple and delicious recipe for stir-frying melinjo skins.",
+        "author": "Rian Farisa",
+        "credLink": "https://resepkoki.id/resep/resep-tumis-kulit-melinjo/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FMelinjo-min.jpg?alt=media&token=cafbdb04-1c3c-46fe-bf9c-0eafedaeaf7d",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FMelinjoC-min.jpg?alt=media&token=31020d5a-f411-4e8f-af83-9767ca108745",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    },
+    
+    {
+        "id": "25",
+        "name": "Pilus Cikur",
+        "origin": "DKI Jakarta",
+        "time": 35,
+        "level": "Medium",
+        "serving": 2,
+        "ingredients": [
+            {
+                "quantity": "150",
+                "measurement": "gram",
+                "name": "Tapioca flour"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole clove",
+                "name": "Garlic"
+            },
+            {
+                "quantity": "1",
+                "measurement": "tbsp.",
+                "name": "Salt"
+            },
+            {
+                "quantity": "1/4",
+                "measurement": "tsp.",
+                "name": "Chicken broth"
+            },
+            {
+                "quantity": "1",
+                "measurement": "whole",
+                "name": "Turmeric"
+            }
+        ],
+        "steps": [
+            "Grind the garlic and kencur, then mix with the main ingredients, also add salt and broth powder.",
+            "Cook the starter ingredients until thickened, then add the starter ingredients to the tapioca flour. Stir until thoroughly mixed.",
+            "Take enough dough then shape it lengthwise, cut the dough into small pieces then form small rounds. Do it until the dough runs out.",
+            "Put the pilus into the still cold oil, then turn on the fire.",
+            "Goreng hingga matang."
+        ],
+        "celebration": "",
+        "funFact": "this is considered a modern snack!",
+        "history": "Snacks in Bandung have many varieties and tastes. This time, Sagala Raos Food Factory is here to provide a choice of alternative snacks that provide a different color and taste than the existing ones.",
+        "author": "Tyas Prabowo",
+        "credLink": "https://resepkoki.id/resep/resep-pilus-cikur/",
+        "thumbnailIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipesThumbnail%2FPilus-min.jpg?alt=media&token=e53907ff-2db1-4c73-9b8a-0f7d98bcdb02",
+        "coverIMG": "https://firebasestorage.googleapis.com/v0/b/makanlagi-f9b8c.appspot.com/o/RecipeCovers%2FPilusC-min.jpg?alt=media&token=42f97070-2182-4d1e-b4e9-2a873aca49b7",
+        "extraIMG": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra.jpg?alt=media&token=5135b902-6a94-49e6-bd0e-83ea1be027d9",
+        "mapImg": "https://firebasestorage.googleapis.com/v0/b/ideat-79c3a.appspot.com/o/extra-1.jpg?alt=media&token=b858cee9-8dad-4abc-a201-cd7bd3d7cf9d"
+    }
+    
+    
+]
